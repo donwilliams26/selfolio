@@ -1,0 +1,30 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 300px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 4rem;
+    color: rgb(223, 194, 29);
+}
+
+header p {
+    font-weight: 700;
+    color: rgb(223, 194, 29);
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+}
+
+header a {
+    box-shadow: 0 3px 3px black;
+    font-weight: 700;
+    background-color: #1d809f!important;
+    border-color: #1d809f!important;
+    color: white!important;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;
+    border-radius: 0.25rem;
+    display: inline-block;
+}
